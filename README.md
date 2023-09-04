@@ -1,2 +1,2 @@
 # bookbot
-BookBot Program
+BookBot is my first git project in bootdev!
